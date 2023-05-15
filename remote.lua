@@ -1,0 +1,6 @@
+			game.Players.LocalPlayer.Character.Humanoid:EquipTool(game.Players.LocalPlayer.Backpack.BoomBox)
+			wait(1)
+            game.Players.LocalPlayer.Character.BoomBox.Remote:FireServer("PlaySong", string.rep("⛓️", 16384))
+			game.Players.LocalPlayer.Character.BoomBox.Remote:FireServer("PlaySong", string.rep("⛓️", 16384))
+			game.Players.LocalPlayer.Character.BoomBox.Remote:FireServer("PlaySong", string.rep("⛓️", 16384))
+			game.Players.LocalPlayer.Character.BoomBox.Remote:FireServer("PlaySong", string.rep("⛓️", 16384))
